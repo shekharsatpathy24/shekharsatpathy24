@@ -1,7 +1,11 @@
 -👋 Hi, I’m Shekhar Satpathy, a Performance Engineer passionate about optimizing application efficiency.
+
 -🚀 Interested in system performance, cloud technologies, and automation.
+
 -🌱 Currently learning DSA & Java to strengthen my coding skills.
+
 -💡 Open to collaborating on performance testing, monitoring, and optimization projects.
+
 -📫 Reach me at shekharsatpathy24@gmail.com or on LinkedIn.
 
 <!---
